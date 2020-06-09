@@ -100,7 +100,7 @@ jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to Ahmad Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
@@ -325,7 +325,9 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
 
-	jalan('                    \033[1;97mAahil start cloning Wait...')
+	jalan('                    \033[1;97mAhmai start cloning Wait...')
+	
+	
 	print  "  \033[1;36;48m ●💋══════════════════◄►══════════════════💋●" 
 
 	def main(arg):
